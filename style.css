@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+}
+
+.wrapper{
+    width: 970px;
+}
+
+.function-section{
+    width: 80%;
+    background-color: #e5e5e5;
+    color: black;
+    display: block;
+    margin: 10px 0px 40px 0px;
+    float: right;
+}
+
+h1{
+    text-align: center;
+    background-color: #bfbfbf;
+    margin: 0px 0px 4px 0px;
+}
+
+.function-text{
+    text-align: left;
+    margin: 0px 0px 40px 0px;
+    display: inline-block;
+    width: 670px;
+    text-align: center;
+    
+}
+
+.function-button{
+    margin: 40px 0px 0px 30px;
+    padding: 5px 5px 5px 5px;
+    display: inline-block;
+    border-radius: 5px;
+}
